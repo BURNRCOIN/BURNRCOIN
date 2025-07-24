@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BURNR - The MemeCoin Arena</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <img src="burnr-hero.png" alt="BURNR auf Coin-Thron" class="burnr-img" />
+    <h1>🔥 Willkommen im BURNR-Verse 🔥</h1>
+    <p>Der MemeCoin, der durch Spiele wächst – und brennt!</p>
+    <div class="cta-buttons">
+      <a href="#games">🎮 Spiele</a>
+      <a href="#tokenomics">📊 Tokenomics</a>
+      <a href="whitepaper.pdf" target="_blank">📄 Whitepaper</a>
+      <a href="https://t.me/burnrcoin" target="_blank">📢 Telegram</a>
+    </div>
+  </header>
+
+  <section class="tracker-section">
+    <h2>🔥 Coin Tracker</h2>
+    <div class="tracker-cards">
+      <div class="tracker-card">
+        <h3>💰 Gesamtbestand</h3>
+        <p>1.000.000.000 $BURNR</p>
+      </div>
+      <div class="tracker-card">
+        <h3>📈 Bereits gekaufte Coins</h3>
+        <p>xx.xxx.xxx</p>
+      </div>
+      <div class="tracker-card">
+        <h3>🔥 Bereits geburnt</h3>
+        <p>xx.xxx.xxx durch Games</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>🚀 Folge uns: 
+      <a href="https://x.com/BURNR_COIN" target="_blank">X/Twitter</a> • 
+      <a href="https://t.me/burnrcoin" target="_blank">Telegram</a> • 
+      <a href="https://discord.gg/va9tsbegsM" target="_blank">Discord</a>
+    </p>
+  </footer>
+</body>
+</html>
